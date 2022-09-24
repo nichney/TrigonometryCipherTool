@@ -18,7 +18,7 @@ void printError(){
 }
 
 void printVersion(){
-    printf("Trigonometry Cipher tool version == %s\nWebsite - https://nichney.ru \nGithub -  \n", VER);
+    printf("Trigonometry Cipher tool version == %s\nWebsite - https://nichney.ru \nGithub - https://github.com/Karasik-piiiip/TrigonometryCipherTool \n", VER);
 }
 
 void encrypt(char filename[], double ZKEY, double DXKEY){
